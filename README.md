@@ -2,7 +2,6 @@
 Assignment - Java Programming Essentials Bootcamp
 
 import java.io.*;
-
 public class myclass 
 {
 public static void main(String[] args) {
